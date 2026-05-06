@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'FundRise — Crowdfund & Earn',
+  title: 'FundRise — Invest & Earn',
   description: 'Back campaigns you believe in and earn real cash rewards through referrals.',
 }
 
